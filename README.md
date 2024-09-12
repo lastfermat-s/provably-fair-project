@@ -98,3 +98,5 @@ npm run build
 ## Run
 
 After build load unpacked extention from ``` chrome manage extention``` and select the ``/build`` directory of project.
+
+This project is tested with BrowserStack
